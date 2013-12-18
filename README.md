@@ -1,0 +1,2 @@
+Zabbix-jmx-solr-template
+========================
