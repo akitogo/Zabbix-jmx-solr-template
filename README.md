@@ -7,7 +7,8 @@ It's a pretty basic template currently supporting one collection named collectio
 
 If you have multiple collections you have to duplicate the keys and change collection names.
 
-
+Legal stuff
+-----------
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
